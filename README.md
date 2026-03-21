@@ -1,4 +1,4 @@
-#NeuroStartUp
+## NeuroStartUp
 
 ![Screenshot](https://github.com/katerina-marenina/NeuroStartUp/blob/main/logo.png)
 
